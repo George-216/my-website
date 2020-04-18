@@ -1,0 +1,17 @@
+h1, h2{
+font-family: cursive;
+color: rgba(118, 29, 183, 0.64);
+}
+
+h1{
+    font-size: 40
+}
+
+h2{
+    font-size: 30
+}
+
+p {
+    
+    text-align: justify;
+}
